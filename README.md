@@ -1,1 +1,52 @@
-# DavidDiazAnalyst
+# 👋 Hey, I'm David\!
+
+I’m a detail-oriented financial analyst with extensive experience in SQL and high-volume revenue analysis within regulated environments. I specialize in financial integrity, regulatory compliance, and transforming complex datasets into actionable insights that drive operational efficiency.
+
+Whether I’m identifying financial discrepancies across luxury resort outlets, ensuring 100% regulatory accuracy for gaming operations, or orchestrating AI to build predictive models, I am driven by the goal of strengthening internal controls and property profitability.
+
+-----
+
+## 🛠️ Technical Skills
+
+\<p\>
+\<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)"/\>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/\>
+\<img src="[https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)"/\>
+\<img src="[https://img.shields.io/badge/Power\_BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpower-bi%26logoColor%3Dblack)"/\>
+\<img src="[https://img.shields.io/badge/Google\_Sheets-34A853?style=for-the-badge\&logo=google-sheets\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Google_Sheets-34A853%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-sheets%26logoColor%3Dwhite)"/\>
+\<img src="[https://img.shields.io/badge/AI\_Orchestration-FF6F61?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/AI_Orchestration-FF6F61%3Fstyle%3Dfor-the-badge)"/\>
+\</p\>
+
+-----
+
+## 💡 Soft Skills
+
+  - ⚖️ **Financial Integrity Specialist**: Dedicated to accuracy and ethical oversight in high-stakes environments.
+  - 🔍 **Detail-Oriented Auditor**: Expert at outlier detection and resolving complex revenue variances.
+  - 🤖 **AI-Forward Analyst**: Leveraging LLMs for automated data cleaning, code refactoring, and documentation.
+  - 🏛️ **Compliance-Focused**: Deep expertise in Nevada Gaming Control Board (NGCB) MICS and Title 31 standards.
+  - 📈 **Strategic Problem Solver**: Transforming transaction data into evidence-based decisions.
+
+-----
+
+## 📂 Recent Projects
+
+  - ⚡ **[Henderson Energy Optimization](https://www.google.com/search?q=https://github.com/Davotango)** — Used Python and IQR modeling on 7,200+ records to reveal a 400% baseload efficiency gap.
+  - 🐧 **[Palmer Penguins Regression](https://www.google.com/search?q=https://github.com/Davotango)** — Built a linear regression model with 75.9% R² accuracy to prioritize key biological metrics.
+
+-----
+
+## 📬 Let's Connect\!
+
+\<p\>
+\<a href="[https://www.linkedin.com/in/david-diaz-sanchez](https://www.google.com/search?q=https://www.linkedin.com/in/david-diaz-sanchez)"\>\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)"/\>\</a\>
+\<a href="mailto:davodiazsanchez@gmail.com"\>\<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/\>\</a\>
+\</p\>
+
+-----
+
+## 🎯 Outro
+
+> *"Financial accuracy is the foundation of operational success; data is the tool that builds it."*
+
+Thanks for visiting my profile\! I am currently open to remote Junior Data Analyst roles in Germany and am excited to bring my unique blend of auditing expertise and technical analysis to new challenges. Feel free to reach out to discuss data, finance, or potential collaborations.

@@ -31,7 +31,7 @@ Whether I’m identifying financial discrepancies across luxury resort outlets, 
 
 ## 📂 Recent Projects
 
-  - ⚡ **[Henderson Energy Optimization](https://www.google.com/search?q=https://github.com/Davotango)** — Used Python and IQR modeling on 7,200+ records to reveal a 400% baseload efficiency gap.
+  - ⚡ **[Henderson Energy Optimization](https://github.com/Davotango/DavidDiazAnalyst/blob/main/building_energy_data.xlsx)** — Used Python and IQR modeling on 7,200+ records to reveal a 400% baseload efficiency gap.
   - 🐧 **[Palmer Penguins Regression](https://www.google.com/search?q=https://github.com/Davotango)** — Built a linear regression model with 75.9% R² accuracy to prioritize key biological metrics.
 
 -----

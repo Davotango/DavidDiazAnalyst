@@ -9,12 +9,12 @@ Whether I’m identifying financial discrepancies across luxury resort outlets, 
 ## 🛠️ Technical Skills
 
 <p>
-<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)"/>
-<img src="[https://img.shields.io/badge/Power\_BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpower-bi%26logoColor%3Dblack)"/>
-<img src="[https://img.shields.io/badge/Google\_Sheets-34A853?style=for-the-badge\&logo=google-sheets\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Google_Sheets-34A853%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-sheets%26logoColor%3Dwhite)"/>
-<img src="[https://img.shields.io/badge/AI\_Orchestration-FF6F61?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/AI_Orchestration-FF6F61%3Fstyle%3Dfor-the-badge)"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Orchestration-FF6F61?style=for-the-badge"/>
 </p>
 
 -----
@@ -39,8 +39,8 @@ Whether I’m identifying financial discrepancies across luxury resort outlets, 
 ## 📬 Let's Connect\!
 
 <p>
-\<a href="[https://www.linkedin.com/in/david-diaz-sanchez](https://www.google.com/search?q=https://www.linkedin.com/in/david-diaz-sanchez)"\>\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
-\<a href="mailto:davodiazsanchez@gmail.com"\>\<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
+<a href="https://www.linkedin.com/in/david-diaz-sanchez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:davodiazsanchez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 -----
